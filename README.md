@@ -1,5 +1,7 @@
 # Introduction
 
+> 本开源书 forked from [Everything cURL](https://github.com/bagder/everything-curl)，作者为 [bagder](https://github.com/bagder)，欢迎大家 star 原作者的 [repo](https://github.com/bagder/everything-curl)，以便获得最新更新，谢谢！
+
 *Everything curl* is an extensive guide to everything there is to know about
 curl, the project, the command-line tool, the library, how everything started
 and how it came to be what it is today. How we work on developing it further,
